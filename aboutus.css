@@ -1424,7 +1424,12 @@ body {
   margin-top: 16px;
   opacity: 0.85;
 }
-
+.big-bg-card .main-para{
+  text-align: justify;
+}
+.big-bg-card .sub-para{
+  text-align: justify;
+}
 /* --------------------------------
    SLIDER WRAPPER
 -------------------------------- */
